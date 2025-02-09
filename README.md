@@ -39,7 +39,7 @@ This project automates the deployment of an Amazon EKS cluster and a containeriz
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/vishal2505/terraform-eks-cicd.git
+    git clone https://github.com/shubhamsengar09/terraform-eks-cicd.git
     ```
 2. **Navigate to the Terraform directory:**
     ```sh
