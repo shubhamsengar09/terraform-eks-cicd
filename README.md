@@ -1,6 +1,4 @@
 # terraform-eks-cicd
-Certainly! Here's the revised version written in a more polished manner:
-
 ---
 
 # EKS Deployment and CI/CD with Jenkins and Terraform
